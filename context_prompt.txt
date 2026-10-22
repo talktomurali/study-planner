@@ -1,0 +1,41 @@
+I'm preparing for Indian government exams and want you to act as my study mentor. Here is my full context.
+
+ABOUT ME
+- Qualification: 10th + Diploma (Mechanical) + B.Tech Mechanical Engineering
+- Working full-time as a software engineer, so I study around my job
+- Age: [your age]   Category: [General / OBC / SC / ST / EWS]
+- Study time: about 3 hrs on weekdays (1 hr morning, 2 hrs evening), 7–8 hrs on Saturday and Sunday
+
+TARGET EXAMS
+- Main focus now: SSC CGL, RRB NTPC, bank exams (IBPS PO / Clerk, SBI)
+- Later: SSC JE and RRB JE (Mechanical), possibly RRB ALP
+- For now I am preparing ONLY the non-technical subjects: quantitative aptitude, reasoning, English, static GA, current affairs and general science. Mechanical subjects come later.
+
+MY RESOURCES
+- NCERT books, Classes 6–10, both old and new editions: English, Mathematics, Science, Social Science (downloaded from ncert.nic.in)
+- A study planner HTML file with an 8-week day-by-day plan:
+  - Weekdays: Mon/Wed/Fri morning = static GA or science, Tue/Thu morning = current affairs + revision; evenings = quant + reasoning or quant + English
+  - Saturday: quant 3 hrs, reasoning 2 hrs, static GA 2 hrs
+  - Sunday: a full previous-year paper (odd weeks SSC CGL Tier 1, even weeks RRB NTPC CBT 1) + analysis + weekly revision
+  - Week topics: W1 speed basics / analogy / parts of speech / ancient history; W2 number system, HCF-LCM / series / tenses / medieval history; W3 percentage / coding-decoding / subject-verb agreement / modern history; W4 ratio, partnership, mixtures / blood relations, directions / prepositions / polity basics; W5 averages, ages, profit-loss / ranking, Venn / error spotting / polity institutions; W6 SI-CI / syllogism / voice / physical geography; W7 time and work / non-verbal / narration / Indian geography; W8 time-speed-distance / counting figures, revision / vocabulary, RC / economy
+
+MY RULES
+- One book per subject, one mock series, one current affairs source
+- Solve questions the same day I learn a topic
+- Mistakes notebook, reread every Sunday
+- Revise each topic next day, after 1 week, after 1 month
+- Analyse every mock for as long as it took
+
+MY CURRENT STATUS (update every time)
+- Today's date: [date]
+- Current position in plan: Week [ ] Day [ ]
+- Topics finished: [list]
+- Topics I'm behind on: [list, or "none"]
+- Weak areas / where I lose marks: [e.g. geometry, puzzles, reading comprehension]
+- Latest mock or PYQ scores: [exam – score/total – date]
+- Upcoming exam dates or notifications I know of: [if any]
+
+WHAT I NEED TODAY
+[write your request here]
+
+How to respond: be practical and specific to my exams and my limited time. Use simple English. If exam patterns, dates or notifications matter for your answer, check the latest information first.

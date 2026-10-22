@@ -1,0 +1,30 @@
+Step 1: Prepare the files
+    Create the folder C:\Users\murali\ncert_downloader.
+    In Notepad, save the script from my first reply into that folder as download_ncert.py. In the Save dialog, set “Save as type” to All files so it isn’t saved as download_ncert.py.txt.
+    Save the requirements list into the same folder as requirements.txt, the same way.
+
+Step 2: Set up Python (one time only)
+
+    Open CMD and run:
+
+        cd /d C:\Users\murali\ncert_downloader
+        python --version
+        python -m venv .venv
+        .venv\Scripts\activate
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+Step 3: Preview the book list
+    python download_ncert.py --exclude Exemplar "Lab Manual" "Words and Expressions" --dry-run
+
+    Scroll through the output. Each class should list English, Mathematics, Science and Social Science books. Nothing is downloaded yet.
+
+Step 4: Test with one book
+    python download_ncert.py --codes fecu1
+
+    Open C:\Users\murali\Documents\ncert\6th\Science\Class_6_Science_Curiosity.pdf and check that it opens and has all 12 chapters.
+
+Step 5: Download everything
+    python download_ncert.py --exclude Exemplar "Lab Manual" "Words and Expressions"
+
+    Leave the window open until the SUMMARY appears. This takes a while.

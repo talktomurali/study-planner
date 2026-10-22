@@ -1,0 +1,12 @@
+Exams ask for facts: who, what, where, when and how many.
+Category	Example of what to write
+Appointments	Who became the new head of an organisation or post
+Awards and honours	Award name, winner, field
+Sports	Tournament, winner, venue, record
+Government schemes	Scheme name, ministry, aim, launch date
+Economy and banking	Repo rate, GDP growth figure, budget highlights, new banking rules
+Summits and international	Summit name, host city or country, theme
+Reports and rankings	Index name, publisher, India’s rank
+Science, tech and defence	ISRO missions, defence exercises with partner countries
+Important days	Date and that year’s theme
+Books and authors	Title and author
